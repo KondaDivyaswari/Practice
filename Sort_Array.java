@@ -4,6 +4,9 @@ public class Sort_Array{
         Scanner sc=new Scanner(System.in);
         int n,i,j;
         int temp=0;
+        /*
+        int a[]={2,34,1,16,4,23};
+        */
         n=sc.nextInt();
         int a[]=new int[n];
         for(i=0;i<n;i++){
